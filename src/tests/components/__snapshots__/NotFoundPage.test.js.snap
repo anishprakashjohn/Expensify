@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render NotFoundpage 1`] = `
+<p>
+  404! - 
+  <Link
+    replace={false}
+    to="/edit"
+  >
+     Go Home 
+  </Link>
+</p>
+`;
